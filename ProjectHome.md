@@ -1,0 +1,1 @@
+This API will use the Box-Meuller Algorithm to help shuffle the cards.
